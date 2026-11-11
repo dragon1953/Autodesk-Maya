@@ -223,4 +223,4 @@ Autodesk Maya is available as a complete free version with all features unlocked
 Get started with Autodesk Maya today and elevate your 3D animation projects to new heights!
 
 ---
-**Last updated:** 2026-11-10 22:11:40 UTC
+**Last updated:** 2026-11-11 02:35:56 UTC
